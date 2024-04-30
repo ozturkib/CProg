@@ -12,6 +12,9 @@ Derslerde daha onceden [repl.it](https://repl.it/) üzerinden veya kendi bilgisa
 ###### Derse ait linkler
 - [Dersin sayfası](http://oku.ozturkibrahim.com/ProgrammingC.php)
 - [Derslerde yazdığım tüm kodlar](https://repl.it/@ozturkib/BilgisayarProgramlama)
+
+- [2023/24 - Dersteki örnekler](https://github.com/ozturkib/CProg/tree/main/2023-24)
+- [2021/22 - Dersteki örnekler](https://github.com/ozturkib/CProg/tree/main/2021-22)
 - [2020/21 - Dersteki örnekler](https://repl.it/@ozturkib/C2021)
 - [2019/20 - Dersteki örnekler](https://repl.it/@ozturkib/C2020)
 
